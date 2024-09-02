@@ -1,16 +1,13 @@
 ![Profile picture](./profile.png)
 
 # Dejan Robović
-### Software engineer
 
-**Email:** hi@dejan.dev\
-**Phone:** +382 (0) 68 18 50 18\
-[LinkedIn](https://linkedin.com/in/dejanrob) | [GitHub](https://github.com/dejanrob) | [Resume](https://resume.dejan.dev)
+[Email](mailto:hi@dejan.dev "hi@dejan.dev") | [Phone](tel:+38268185018 "+382 (0) 68 18 50 18") | [LinkedIn](https://linkedin.com/in/dejanrob) | [GitHub](https://github.com/dejanrob) | [Resume](https://resume.dejan.dev)
 
 
 ---
 
-Experienced Software Engineer with over a decade in full-stack development with backend preferences. Passionate about researching cutting-edge methodologies, AI, IoT, and microservices with a strong "learn by doing" philosophy.
+Experienced **Software Engineer** with over a decade in full-stack development with backend preferences. Passionate about researching cutting-edge methodologies, AI, IoT, and microservices with a strong "learn by doing" philosophy.
 
 ---
 
